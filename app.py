@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.set_page_config(page_title="Bio-Drive HMI Simulator", layout="wide")
 
 # Custom CSS to force a sleek, dark automotive dashboard theme
